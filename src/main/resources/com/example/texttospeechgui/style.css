@@ -1,0 +1,53 @@
+.body{
+     -fx-background:#6495ED;
+}
+
+.text-to-speech-label{
+    -fx-font-size: 25px;
+    -fx-font-weight: bold;
+    -fx-padding: 10px;
+    -fx-background-radius: 20px 20px 0 0;
+    -fx-text-fill: white;
+}
+
+.text-area {
+    -fx-font-size: 16px;
+    -fx-control-inner-background: #F0F8FF; /* Light blue inner background */
+    -fx-background-radius: 15px; /* Curves all corners (adjust the value as needed) */
+    -fx-padding: 10px; /* Adds spacing inside the text box for a better look */
+    -fx-border-radius: 15px; /* Optional: Curves the border if there’s a border around the area */
+}
+
+
+.setting-label{
+    -fx-font-size: 16px;
+    -fx-font-weight: bold;
+    -fx-text-fill: white;
+}
+
+.setting-combo-box .list-cell{
+    -fx-text-fill: white;
+}
+
+.setting-combo-box{
+    -fx-font-size: 16px;
+    -fx-control-inner-background: #ADD8E6;
+    -fx-background-color: #ADD8E6;
+    -fx-background-radius: 10px;
+    -fx-border-radius: 10px;
+}
+
+.speak-btn{
+    -fx-font-size: 18px;
+    -fx-font-weight: bold;
+    -fx-background-color: #ADD8E6;
+    -fx-text-fill: white;
+    -fx-padding: 0;
+    -fx-background-radius: 10px;
+    -fx-border-radius: 10px;
+}
+
+.speak-btn:pressed{
+    -fx-opacity: 0.65;
+}
+
