@@ -21,3 +21,10 @@ The project is organized into the following directories:
 - **src**: Contains the source code for the application.  
 - **resources**: Stores assets like icons or additional files (e.g., CSS or audio files).  
 - **target/out**: Contains the compiled Java classes.
+
+## Screenshots
+---
+Here are some screenshots of the Application:
+
+![Screenshot (435)](https://github.com/user-attachments/assets/c9a854b0-0ccf-4e10-82b5-04a9af3a9cc2)
+![Screenshot (436)](https://github.com/user-attachments/assets/0c85c99a-b42f-48f8-9fac-9a1170fb13c4)
