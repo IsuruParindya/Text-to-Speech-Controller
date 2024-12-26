@@ -10,7 +10,14 @@ A JavaFX-based **Text-to-Speech application** styled with CSS. This application 
 
 ## Technologies Used
 ---
-- **Java**: Programming language for core functionality.  
-- **JavaFX**: For building the graphical user interface.  
-- **CSS**: For styling and customizing the application's appearance.  
-- **Maven/Gradle** (optional): For managing project dependencies and builds.  
+**Java**: Programming language for core functionality.  
+**JavaFX**: For building the graphical user interface.  
+**CSS**: For styling and customizing the application's appearance.  
+**Maven/Gradle** (optional): For managing project dependencies and builds.  
+
+## File Structure
+---
+The project is organized into the following directories:  
+- **src**: Contains the source code for the application.  
+- **resources**: Stores assets like icons or additional files (e.g., CSS or audio files).  
+- **target/out**: Contains the compiled Java classes.
